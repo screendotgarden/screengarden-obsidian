@@ -28,3 +28,7 @@ To install manually, you'll need to:
 5. Navigate to Community Plugins in Obsidian settings, click the refresh button, find screen.garden, and enable it.
 
 After installing via either method you should have screen.garden panes available in both the left and right sidebars of Obsidian. Use the links in one of those to register or log in.
+
+## License
+
+Please note that [during our early beta period screen.garden has a closed license](./LICENSE.md). We intend to update this license to a more permissive one as we exit these early beta periods.
