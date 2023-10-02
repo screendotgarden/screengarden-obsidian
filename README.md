@@ -32,3 +32,11 @@ After installing via either method you should have screen.garden panes available
 ## License
 
 Please note that [during our early beta period screen.garden has a closed license](./LICENSE.md). We intend to update this license to a more permissive one as we exit these early beta periods.
+
+## Disclosures
+
+- Payment is required for full access
+- An account is required for full access
+- Network use
+  - Connections are made to screen.garden servers for the purpose of sending and receiving note edits and metadata
+  - https://screen.garden/privacy
