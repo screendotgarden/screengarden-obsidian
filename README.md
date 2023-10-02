@@ -40,3 +40,4 @@ Please note that [during our early beta period screen.garden has a closed licens
 - Network use
   - Connections are made to screen.garden servers for the purpose of sending and receiving note edits and metadata
   - https://screen.garden/privacy
+- screen.garden code is, for the time being, closed source. See [License](#license)
