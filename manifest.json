@@ -1,11 +1,10 @@
 {
-	"id": "screengarden-obsidian",
+	"id": "screengarden",
 	"name": "screen.garden",
-	"version": "0.0.11",
+	"version": "0.0.12",
 	"minAppVersion": "1.1.16",
 	"description": "Collaborate, publish, and work across PKM systems with screen.garden.",
 	"author": "screen.garden",
 	"authorUrl": "https://screen.garden/",
-	"fundingUrl": "https://screen.garden/",
 	"isDesktopOnly": false
 }
