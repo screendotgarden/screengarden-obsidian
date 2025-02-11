@@ -2,42 +2,28 @@
 
 This is the [Obsidian](https://obsidian.md) plugin for [screen.garden](https://screen.garden).
 
-screen.garden is currently in closed beta; if you’ve stumbled across this repo, please consider joining our [waitlist](https://screen.garden/users/waitlist) to learn when you can try it out!
+screen.garden is the best way to collaborate within Obsidian and get access to [amazing features](https://screen.garden/features) like one-off sharing and editing your vault on the web.
 
-## For testers
+A [demo video](https://www.youtube.com/watch?v=tMV1DoJObfc) shows some of those features—check it out!
 
-For those with screen.garden accounts, you can install this plugin either manually or using the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin.
+## Installing
 
-### Installing using BRAT
+You find [screen.garden in Obsidian’s Community Plugins](obsidian://show-plugin?id=screengarden-obsidian).
 
-BRAT is a beta-testing tool for plugins. It helps you install and update beta versions of plugins based on some additional metadata in this repo. If you’d like to install screen.garden using BRAT:
+## Getting Started
 
-1. [Install the BRAT plugin](obsidian://show-plugin?id=obsidian42-brat).
-2. Run the `BRAT: Add a beta plugin for testing` command and paste in `https://github.com/screendotgarden/screengarden-obsidian`.
-3. Click Add Plugin.
-4. Navigate to Community Plugins in Obsidian settings, click the refresh button, find screen.garden, and enable it.
-
-### Installing manually
-
-To install manually, you'll need to:
-
-1. Download the [latest release](https://github.com/screendotgarden/screengarden-obsidian/releases).
-2. Find the folder named `.obsidian/plugins` in your vault and open it.
-3. In that folder, create a new folder named `screengarden-obsidian`.
-4. Copy the files from the latest release and paste them into the folder you created.
-5. Navigate to Community Plugins in Obsidian settings, click the refresh button, find screen.garden, and enable it.
-
-After installing via either method you should have screen.garden panes available in both the left and right sidebars of Obsidian. Use the links in one of those to register or log in.
+To get started after installing, open the plugin’s settings and log in. Click the status or ribbon icon to open the home screen. Right-click any folder and select "Sync in screen.garden" to begin collaborating.
 
 ## License
 
-Please note that [during our early beta period screen.garden has a closed license](./LICENSE.md). We intend to update this license to a more permissive one as we exit these early beta periods.
+[During early access screen.garden has a closed license](./LICENSE.md). We intend to revisit this license once we have a better sense of how people are using screen.garden.
 
 ## Disclosures
 
-- Payment is required for full access
 - An account is required for full access
+- After a trial period, membership on a subscribed team is required for full access
 - Network use
-  - Connections are made to screen.garden servers for the purpose of sending and receiving note edits and metadata
-  - https://screen.garden/privacy
+  - Connections are made to screen.garden servers for the purpose of sending and receiving note/file edits and metadata
+  - screen.garden does not connect to any third-party services
+  - See https://screen.garden/privacy for details
 - screen.garden code is, for the time being, closed source. See [License](#license)
