@@ -10,6 +10,10 @@ A [demo video](https://www.youtube.com/watch?v=tMV1DoJObfc) shows some of those 
 
 You find [screen.garden in Obsidian’s Community Plugins](obsidian://show-plugin?id=screengarden-obsidian).
 
+## Support
+
+For priority support please email [support@screen.garden](mailto:support@screen.garden) or [join our Discord](https://discord.gg/nQgX68RJPj).
+
 ## Getting Started
 
 To get started after installing, open the plugin’s settings and log in. Click the status or ribbon icon to open the home screen. Right-click any folder and select "Sync in screen.garden" to begin collaborating.
