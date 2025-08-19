@@ -2,9 +2,16 @@
 
 This is the [Obsidian](https://obsidian.md) plugin for [screen.garden](https://screen.garden).
 
-screen.garden is the best way to collaborate within Obsidian and get access to [amazing features](https://screen.garden/features) like one-off sharing and editing your vault on the web.
+screen.garden is the best way to collaborate within Obsidian and get access to [amazing features](https://screen.garden/features) like:
 
-A [demo video](https://www.youtube.com/watch?v=tMV1DoJObfc) shows some of those features—check it out!
+- Realtime note collaboration with live cursors
+- Presence so you can see where others are editing in a vault
+- Folder- or vault-level sharing
+- Fine-grained permissions with private and public collections
+- File sync—share images, videos, and any other file alongside your live notes
+- Web access—read and edit your notes on the web
+
+And much more.
 
 ## Installing
 
@@ -20,7 +27,7 @@ To get started after installing, open the plugin’s settings and log in. Click 
 
 ## License
 
-[During early access screen.garden has a closed license](./LICENSE.md). We intend to revisit this license once we have a better sense of how people are using screen.garden.
+[screen.garden has a closed license](./LICENSE.md). We intend to revisit this license once we have a better sense of how people are using screen.garden.
 
 ## Disclosures
 
@@ -28,6 +35,7 @@ To get started after installing, open the plugin’s settings and log in. Click 
 - After a trial period, membership on a subscribed team is required for full access
 - Network use
   - Connections are made to screen.garden servers for the purpose of sending and receiving note/file edits and metadata
+  - screen.garden may connect to this GitHub repository to check for upates
   - screen.garden does not connect to any third-party services
   - See https://screen.garden/privacy for details
 - screen.garden code is, for the time being, closed source. See [License](#license)
